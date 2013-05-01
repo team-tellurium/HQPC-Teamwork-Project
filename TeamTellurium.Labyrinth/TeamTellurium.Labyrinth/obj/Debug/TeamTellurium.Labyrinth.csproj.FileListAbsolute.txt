@@ -1,0 +1,6 @@
+D:\Main\Telerik Academy\Homeworks\Team Projects\02.High Quality Code TeamProject\HQPC-Teamwork-Project\TeamTellurium.Labyrinth\TeamTellurium.Labyrinth\bin\Debug\TeamTellurium.Labyrinth.exe.config
+D:\Main\Telerik Academy\Homeworks\Team Projects\02.High Quality Code TeamProject\HQPC-Teamwork-Project\TeamTellurium.Labyrinth\TeamTellurium.Labyrinth\bin\Debug\TeamTellurium.Labyrinth.exe
+D:\Main\Telerik Academy\Homeworks\Team Projects\02.High Quality Code TeamProject\HQPC-Teamwork-Project\TeamTellurium.Labyrinth\TeamTellurium.Labyrinth\bin\Debug\TeamTellurium.Labyrinth.pdb
+D:\Main\Telerik Academy\Homeworks\Team Projects\02.High Quality Code TeamProject\HQPC-Teamwork-Project\TeamTellurium.Labyrinth\TeamTellurium.Labyrinth\obj\Debug\TeamTellurium.Labyrinth.csprojResolveAssemblyReference.cache
+D:\Main\Telerik Academy\Homeworks\Team Projects\02.High Quality Code TeamProject\HQPC-Teamwork-Project\TeamTellurium.Labyrinth\TeamTellurium.Labyrinth\obj\Debug\TeamTellurium.Labyrinth.exe
+D:\Main\Telerik Academy\Homeworks\Team Projects\02.High Quality Code TeamProject\HQPC-Teamwork-Project\TeamTellurium.Labyrinth\TeamTellurium.Labyrinth\obj\Debug\TeamTellurium.Labyrinth.pdb
