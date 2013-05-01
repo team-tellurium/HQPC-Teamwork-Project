@@ -5,7 +5,9 @@ using System.Text;
 using System.IO;
 namespace Labyrinth
 {
-    enum Direction { Blank = -1, Left, Up, Right, Down };
+    enum Direction { 
+        Blank = -1, Left, Up, Right, Down 
+    };
 
     class Message
     {
